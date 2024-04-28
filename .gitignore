@@ -1,2 +1,6 @@
+.env
 data/nl-simlex-999.txt
 data/nl-simlex-999-questionnaire.csv
+api_calls/simulate
+data/response/nl/old
+data/prompt_data/nl/old
