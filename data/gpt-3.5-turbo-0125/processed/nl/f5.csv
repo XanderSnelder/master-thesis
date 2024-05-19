@@ -1,0 +1,998 @@
+word1,word2,similarity_score_1,similarity_score_2,similarity_score_3,similarity_score_4,similarity_score_5,similarity_score_6,similarity_score_7,similarity_score_8,similarity_score_9,similarity_score_10,similarity_score_11,similarity_score_12,similarity_score_13,similarity_score_14,similarity_score_15
+oud,nieuw,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+slim,intelligent,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+hard,moeilijk,neutraal,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,neutraal,ongelijk,ongelijk,ongelijk
+gelukkig,vrolijk,gelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,neutraal,ongelijk,gelijk,gelijk,neutraal,gelijk,neutraal,gelijk,gelijk
+hard,stoer,neutraal,gelijk,ongelijk,ongelijk,ongelijk,gelijk,zeer ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,neutraal
+snel,razendsnel,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,zeer gelijk,gelijk,zeer gelijk,zeer gelijk,zeer gelijk,gelijk,zeer gelijk
+gelukkig,blij,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+kort,lang,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk
+dom,stom,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk
+vreemd,eigenaardig,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+breed,smal,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,neutraal,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk
+makkelijk,moeilijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk
+moeilijk,gemakkelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,gelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk
+slim,dom,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk
+krankzinnig,gek,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+gelukkig,kwaad,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+uitgebreid,groot,gelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,zeer ongelijk,gelijk,ongelijk
+moeilijk,simpel,neutraal,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk
+nieuw,vers,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,zeer gelijk,neutraal
+scherp,saai,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk
+vlug,snel,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,neutraal,gelijk,ongelijk,gelijk,gelijk,ongelijk,neutraal,gelijk,gelijk
+dom,dwaas,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk
+prachtig,fantastisch,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk
+eigenaardig,vreemd,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+gelukkig,boos,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+smal,breed,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,neutraal,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk
+eenvoudig,gemakkelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,ongelijk,gelijk,gelijk,gelijk
+oud,vers,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,neutraal
+kennelijk,duidelijk,neutraal,gelijk,zeer ongelijk,ongelijk,ongelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,neutraal
+betaalbaar,goedkoop,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+leuk,grootmoedig,zeer ongelijk,zeer ongelijk,neutraal,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,neutraal,zeer ongelijk,zeer ongelijk,ongelijk
+raar,vreemd,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+vreemd,normaal,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer gelijk,zeer ongelijk
+slecht,immoreel,gelijk,gelijk,ongelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk
+verdrietig,grappig,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+prachtig,geweldig,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,zeer gelijk,zeer gelijk
+schuldig,beschaamd,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+mooi,prachtig,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,neutraal,gelijk,gelijk
+zelfverzekerd,zeker,ongelijk,ongelijk,neutraal,ongelijk,gelijk,gelijk,neutraal,neutraal,ongelijk,gelijk,ongelijk,gelijk,neutraal,ongelijk,ongelijk
+dom,onderontwikkeld,zeer gelijk,zeer gelijk,zeer ongelijk,gelijk,ongelijk,gelijk,ongelijk,zeer gelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,zeer gelijk,gelijk
+groot,flexibel,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,neutraal,ongelijk,ongelijk,ongelijk
+aardig,wreed,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk
+ongeduldig,nerveus,gelijk,gelijk,zeer ongelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,neutraal,gelijk,gelijk
+groot,breed,gelijk,ongelijk,neutraal,ongelijk,neutraal,ongelijk,gelijk,ongelijk,ongelijk,neutraal,gelijk,gelijk,neutraal,neutraal,gelijk
+sterk,trots,neutraal,ongelijk,neutraal,neutraal,zeer gelijk,gelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,neutraal,ongelijk
+onnodig,noodzakelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,neutraal,ongelijk,ongelijk,zeer ongelijk,neutraal
+onrustig,jong,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk
+dom,intelligent,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk
+slecht,geweldig,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+moeilijk,eenvoudig,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+noodzakelijk,belangrijk,gelijk,gelijk,ongelijk,gelijk,gelijk,ongelijk,neutraal,gelijk,gelijk,neutraal,ongelijk,neutraal,gelijk,ongelijk,neutraal
+slecht,verschrikkelijk,zeer ongelijk,ongelijk,ongelijk,gelijk,zeer gelijk,ongelijk,ongelijk,ongelijk,gelijk,zeer gelijk,gelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk
+boos,blij,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk
+eerlijk,schuldig,zeer ongelijk,ongelijk,ongelijk,gelijk,gelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,neutraal,zeer ongelijk
+makkelijk,zwaar,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk
+makkelijk,flexibel,ongelijk,ongelijk,ongelijk,gelijk,zeer ongelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk
+stellig,zeker,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+essentieel,noodzakelijk,gelijk,ongelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk
+anders,normaal,zeer gelijk,zeer ongelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,neutraal,neutraal,gelijk,gelijk,ongelijk
+sluw,slim,neutraal,ongelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,neutraal,gelijk,ongelijk,ongelijk
+cruciaal,belangrijk,gelijk,ongelijk,ongelijk,zeer ongelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,neutraal,neutraal,ongelijk,gelijk
+hard,wreed,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk
+kinderachtig,dwaas,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk
+zelden,zeldzaam,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk
+vriendelijk,vrijgevig,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk
+breekbaar,kil,gelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk
+lang,smal,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk
+groot,zwaar,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,zeer ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,gelijk
+ruw,koel,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,neutraal,ongelijk
+bizar,vreemd,neutraal,zeer gelijk,zeer gelijk,zeer gelijk,neutraal,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk
+illegaal,immoreel,zeer gelijk,gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk
+slecht,schuldig,gelijk,zeer gelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,zeer gelijk,ongelijk,gelijk,gelijk,ongelijk,gelijk,ongelijk
+modern,oud,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk
+nieuw,oud,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk
+saai,grappig,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk
+gelukkig,jong,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk
+makkelijk,groot,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,gelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk
+geweldig,vreselijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk
+klein,enorm,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk
+beleefd,gepast,gelijk,gelijk,ongelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk
+bescheiden,beschaamd,gelijk,gelijk,ongelijk,zeer gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,zeer gelijk,ongelijk,gelijk,gelijk
+exotisch,zeldzaam,gelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,gelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk,neutraal,gelijk
+dom,slim,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk
+heerlijk,prachtig,gelijk,gelijk,ongelijk,zeer gelijk,gelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,gelijk,gelijk,ongelijk,zeer gelijk,gelijk
+opvallend,duidelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,ongelijk,zeer gelijk,zeer gelijk,ongelijk,zeer gelijk
+angstig,bang,gelijk,zeer gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,zeer gelijk,zeer gelijk
+formeel,juist,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,gelijk
+somber,saai,ongelijk,ongelijk,ongelijk,gelijk,gelijk,gelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk
+heerlijk,vrolijk,zeer ongelijk,ongelijk,ongelijk,zeer gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+ongelukkig,kwaad,ongelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,ongelijk,gelijk,zeer gelijk,zeer gelijk,gelijk
+verdrietig,vreselijk,gelijk,zeer gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,ongelijk,ongelijk,gelijk,zeer gelijk,neutraal,gelijk
+ziek,gek,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+gewelddadig,boos,gelijk,zeer gelijk,ongelijk,ongelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+beladen,zwaar,zeer gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,ongelijk
+vuil,goedkoop,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,zeer gelijk,ongelijk,gelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk
+elastisch,flexibel,zeer gelijk,ongelijk,gelijk,zeer gelijk,gelijk,gelijk,zeer gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk
+hard,dicht,zeer gelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk,zeer gelijk,ongelijk,ongelijk,gelijk,ongelijk,zeer gelijk,ongelijk
+onlangs,nieuw,zeer ongelijk,zeer gelijk,ongelijk,zeer gelijk,ongelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,zeer ongelijk,gelijk,gelijk,gelijk,gelijk
+brutaal,trots,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk
+sluw,vreemd,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk
+vreemd,sluw,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,zeer gelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk
+dom,zeldzaam,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,gelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk
+sluw,koppig,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+fantastisch,kwaad,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+bescheiden,flexibel,gelijk,ongelijk,neutraal,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,neutraal,neutraal,ongelijk,ongelijk,neutraal,neutraal
+vers,breed,ongelijk,ongelijk,ongelijk,neutraal,neutraal,ongelijk,ongelijk,neutraal,neutraal,neutraal,ongelijk,ongelijk,neutraal,neutraal,ongelijk
+enorm,sprakeloos,neutraal,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk
+groot,enorm,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk
+vuil,smal,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+echtgenote,echtgenoot,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+boek,tekst,neutraal,ongelijk,neutraal,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,neutraal,neutraal,ongelijk
+bruidegom,bruid,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+nacht,dag,ongelijk,ongelijk,gelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+zuid,noord,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,ongelijk,zeer gelijk,zeer ongelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk
+vliegtuig,luchthaven,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,neutraal,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,neutraal,ongelijk,ongelijk
+oom,tante,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+paard,merrie,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,neutraal,zeer gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk
+onderkant,bovenkant,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+vriend,maat,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+student,leerling,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,zeer gelijk,gelijk
+wereld,wereldbol,ongelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,zeer gelijk,neutraal,zeer gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk
+been,arm,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+vliegtuig,straalvliegtuig,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,neutraal,zeer gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+vrouw,man,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,zeer ongelijk,zeer gelijk,gelijk,ongelijk,gelijk,gelijk,ongelijk,zeer gelijk,gelijk
+paard,veulen,gelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,gelijk,ongelijk,zeer gelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk
+actrice,acteur,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk
+leraar,instructeur,gelijk,gelijk,gelijk,ongelijk,ongelijk,gelijk,zeer gelijk,neutraal,gelijk,ongelijk,gelijk,gelijk,neutraal,gelijk,gelijk
+film,filmrol,neutraal,ongelijk,neutraal,ongelijk,gelijk,ongelijk,zeer gelijk,gelijk,ongelijk,neutraal,ongelijk,neutraal,gelijk,neutraal,ongelijk
+vogel,havik,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+woord,woordenboek,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk
+geld,salaris,neutraal,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,neutraal,neutraal,neutraal,ongelijk,neutraal,ongelijk,ongelijk
+hond,kat,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+gebied,regio,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,neutraal,zeer gelijk,gelijk,gelijk,gelijk,gelijk
+marine,leger,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+boek,literatuur,ongelijk,ongelijk,ongelijk,zeer ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+kleding,kast,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,zeer gelijk,ongelijk
+zonsondergang,zonsopgang,ongelijk,ongelijk,gelijk,neutraal,gelijk,ongelijk,gelijk,ongelijk,neutraal,gelijk,gelijk,ongelijk,ongelijk,ongelijk,zeer gelijk
+kind,volwassen,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,gelijk,zeer ongelijk
+koe,vee,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal
+boek,verhaal,gelijk,gelijk,ongelijk,neutraal,neutraal,neutraal,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,neutraal
+winter,zomer,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,zeer gelijk,zeer ongelijk,neutraal,ongelijk,gelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk
+taxi,taxis,zeer gelijk,zeer ongelijk,gelijk,gelijk,gelijk,gelijk,neutraal,zeer gelijk,gelijk,zeer gelijk,gelijk,zeer gelijk,ongelijk,gelijk,ongelijk
+boom,esdoorn,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk
+bed,slaapkamer,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+dak,plafond,gelijk,zeer gelijk,ongelijk,gelijk,neutraal,gelijk,ongelijk,gelijk,ongelijk,zeer gelijk,neutraal,ongelijk,ongelijk,gelijk,neutraal
+ziekte,infectie,ongelijk,neutraal,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,gelijk,zeer gelijk,gelijk
+arm,schouder,gelijk,neutraal,ongelijk,ongelijk,ongelijk,neutraal,zeer ongelijk,zeer gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,neutraal
+schaap,lam,ongelijk,gelijk,neutraal,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal
+dame,meneer,ongelijk,gelijk,zeer gelijk,ongelijk,gelijk,zeer ongelijk,zeer ongelijk,zeer gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,zeer gelijk
+boot,anker,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+priester,monnik,ongelijk,neutraal,gelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,ongelijk
+teen,vinger,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,neutraal,zeer gelijk,gelijk,ongelijk,zeer gelijk,gelijk,ongelijk,gelijk,gelijk,neutraal
+rivier,stroom,gelijk,ongelijk,ongelijk,ongelijk,zeer gelijk,neutraal,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+boosheid,woede,gelijk,zeer gelijk,gelijk,zeer gelijk,gelijk,zeer gelijk,zeer gelijk,zeer gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,zeer gelijk,zeer gelijk
+datum,kalender,neutraal,ongelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,neutraal
+zee,oceaan,gelijk,zeer gelijk,neutraal,gelijk,gelijk,zeer gelijk,zeer gelijk,neutraal,zeer gelijk,gelijk,gelijk,zeer gelijk,zeer gelijk,ongelijk,gelijk
+seconde,minuut,ongelijk,zeer gelijk,neutraal,ongelijk,gelijk,neutraal,ongelijk,zeer gelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk,gelijk
+hand,duim,gelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,neutraal
+hout,stam,gelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,ongelijk,zeer gelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,neutraal
+modder,vuil,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,zeer gelijk
+hal,gang,gelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer gelijk,ongelijk,zeer gelijk,ongelijk,ongelijk,gelijk,ongelijk,zeer gelijk
+weg,manier,neutraal,ongelijk,neutraal,ongelijk,gelijk,ongelijk,ongelijk,zeer gelijk,neutraal,gelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk
+muis,kat,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,zeer gelijk
+politieagent,sheriff,zeer gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,zeer gelijk,ongelijk,zeer gelijk,gelijk,ongelijk,ongelijk,ongelijk,gelijk,neutraal
+dood,begrafenis,neutraal,zeer gelijk,gelijk,zeer gelijk,gelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk
+muziek,melodie,gelijk,gelijk,zeer gelijk,gelijk,ongelijk,zeer gelijk,zeer ongelijk,ongelijk,gelijk,gelijk,gelijk,ongelijk,neutraal,ongelijk,gelijk
+bier,alcohol,ongelijk,gelijk,neutraal,neutraal,gelijk,zeer gelijk,ongelijk,neutraal,ongelijk,ongelijk,gelijk,ongelijk,gelijk,ongelijk,neutraal
+mond,lip,ongelijk,gelijk,ongelijk,ongelijk,neutraal,neutraal,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal
+storm,orkaan,gelijk,zeer gelijk,gelijk,gelijk,gelijk,zeer gelijk,ongelijk,zeer gelijk,neutraal,zeer gelijk,neutraal,gelijk,gelijk,gelijk,ongelijk
+belasting,inkomen,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+bloem,viooltjes,gelijk,zeer gelijk,ongelijk,ongelijk,neutraal,zeer gelijk,ongelijk,zeer gelijk,ongelijk,ongelijk,gelijk,neutraal,ongelijk,gelijk,ongelijk
+papier,karton,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,neutraal
+vloer,plafond,ongelijk,neutraal,ongelijk,neutraal,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,zeer ongelijk
+strand,kust,neutraal,ongelijk,zeer gelijk,neutraal,neutraal,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,zeer gelijk,neutraal,gelijk
+staaf,gordijn,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,neutraal,ongelijk,zeer ongelijk,zeer ongelijk
+jachthond,vos,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk
+straat,auto,ongelijk,ongelijk,ongelijk,zeer ongelijk,neutraal,zeer ongelijk,ongelijk,neutraal,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,neutraal,ongelijk
+boot,dek,ongelijk,ongelijk,ongelijk,neutraal,neutraal,neutraal,ongelijk,gelijk,gelijk,ongelijk,zeer ongelijk,neutraal,neutraal,neutraal,neutraal
+auto,toeter,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,neutraal,zeer ongelijk,ongelijk
+vriend,gast,neutraal,gelijk,neutraal,neutraal,neutraal,gelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,neutraal,gelijk,neutraal,neutraal
+werkgever,werknemer,ongelijk,gelijk,zeer gelijk,gelijk,ongelijk,neutraal,ongelijk,gelijk,gelijk,neutraal,zeer ongelijk,gelijk,gelijk,zeer gelijk,gelijk
+hand,pols,neutraal,neutraal,neutraal,ongelijk,neutraal,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,neutraal,ongelijk,ongelijk
+bal,kostuum,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+alcohol,brandewijn,gelijk,zeer gelijk,zeer gelijk,gelijk,neutraal,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk
+overwinning,zege,gelijk,zeer gelijk,zeer gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+telefoon,cel,ongelijk,gelijk,ongelijk,ongelijk,neutraal,neutraal,ongelijk,zeer ongelijk,gelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,neutraal,neutraal,ongelijk
+deur,ingang,ongelijk,ongelijk,neutraal,zeer ongelijk,neutraal,neutraal,ongelijk,gelijk,neutraal,gelijk,ongelijk,neutraal,zeer gelijk,neutraal,gelijk
+motel,herberg,gelijk,gelijk,neutraal,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,neutraal,neutraal,gelijk,neutraal
+kleding,stof,neutraal,ongelijk,ongelijk,ongelijk,neutraal,gelijk,gelijk,zeer ongelijk,gelijk,ongelijk,ongelijk,neutraal,neutraal,neutraal,gelijk
+steak,vlees,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+nagel,duim,neutraal,gelijk,neutraal,ongelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,neutraal,zeer gelijk
+muziekgroep,orkest,neutraal,zeer gelijk,zeer gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+boek,bijbel,ongelijk,ongelijk,gelijk,neutraal,neutraal,ongelijk,zeer gelijk,neutraal,zeer ongelijk,ongelijk,ongelijk,gelijk,gelijk,neutraal,gelijk
+bedrijf,industrie,neutraal,ongelijk,ongelijk,gelijk,neutraal,gelijk,ongelijk,neutraal,gelijk,ongelijk,ongelijk,ongelijk,neutraal,neutraal,neutraal
+winter,seizoen,neutraal,ongelijk,gelijk,gelijk,neutraal,gelijk,gelijk,neutraal,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk
+decennium,eeuw,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,zeer ongelijk,gelijk,ongelijk,ongelijk,neutraal,neutraal,ongelijk,zeer ongelijk
+alcohol,jenever,gelijk,zeer gelijk,zeer gelijk,gelijk,ongelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk
+hoed,jas,neutraal,gelijk,gelijk,gelijk,ongelijk,neutraal,gelijk,neutraal,ongelijk,gelijk,ongelijk,gelijk,gelijk,neutraal,neutraal
+raam,deur,neutraal,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,ongelijk,zeer gelijk,neutraal,gelijk
+arm,pols,neutraal,neutraal,gelijk,ongelijk,neutraal,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk
+huis,appartement,ongelijk,gelijk,zeer gelijk,gelijk,neutraal,gelijk,ongelijk,neutraal,gelijk,gelijk,ongelijk,gelijk,neutraal,neutraal,zeer ongelijk
+glas,kristal,gelijk,gelijk,zeer gelijk,neurtal,neutraal,gelijk,ongelijk,gelijk,zeer gelijk,zeer gelijk,ongelijk,ongelijk,gelijk,neutraal,gelijk
+wijn,brandewijn,gelijk,zeer gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+maker,producent,gelijk,gelijk,neutraal,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+diner,ontbijt,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,neutraal,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk
+arm,spier,neutraal,gelijk,neutraal,ongelijk,neutraal,neutraal,neutraal,neutraal,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,neutraal,zeer ongelijk
+bubbel,schuim,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+brood,meel,neutraal,ongelijk,ongelijk,gelijk,ongelijk,neutraal,ongelijk,ongelijk,neutraal,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+dood,tragedie,neutraal,ongelijk,zeer ongelijk,ongelijk,neutraal,gelijk,zeer ongelijk,neutraal,zeer gelijk,neutraal,gelijk,ongelijk,gelijk,ongelijk,neutraal
+afwezigheid,aanwezigheid,gelijk,neutraal,gelijk,zeer ongelijk,gelijk,gelijk,neutraal,gelijk,neutraal,neutraal,zeer gelijk,neutraal,gelijk,neutraal,neutraal
+pistool,kanon,neutraal,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,ongelijk,gelijk,gelijk,neutraal,neutraal
+gras,stro,gelijk,gelijk,neutraal,ongelijk,neutraal,gelijk,ongelijk,ongelijk,neutraal,neutraal,ongelijk,ongelijk,neutraal,ongelijk,ongelijk
+bal,mand,neutraal,ongelijk,ongelijk,ongelijk,neutraal,neutraal,neutraal,ongelijk,ongelijk,neutraal,neutraal,zeer ongelijk,ongelijk,ongelijk,ongelijk
+slang,tuin,zeer ongelijk,zeer ongelijk,zeer ongelijk,gelijk,ongelijk,zeer ongelijk,zeer ongelijk,neutraal,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk
+jongen,kind,ongelijk,zeer ongelijk,neutraal,gelijk,neutraal,neutraal,neutraal,neutraal,gelijk,ongelijk,gelijk,neutraal,gelijk,neutraal,ongelijk
+kerk,koor,ongelijk,neutraal,ongelijk,gelijk,ongelijk,neutraal,gelijk,ongelijk,neutraal,ongelijk,ongelijk,gelijk,zeer ongelijk,gelijk,gelijk
+kleding,lade,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+toren,bel,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,neutraal,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,neutraal
+vader,ouder,gelijk,ongelijk,neutraal,gelijk,gelijk,gelijk,ongelijk,gelijk,ongelijk,zeer gelijk,gelijk,gelijk,gelijk,neutraal,zeer gelijk
+school,cijfer,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+ouder,volwassene,gelijk,neutraal,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,neutraal
+balk,gevangenis,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,neutraal,zeer ongelijk,neutraal,ongelijk,ongelijk,gelijk,zeer ongelijk,ongelijk
+auto,snelweg,neutraal,ongelijk,neutraal,ongelijk,ongelijk,zeer ongelijk,ongelijk,gelijk,neutraal,ongelijk,gelijk,ongelijk,zeer ongelijk,neutraal,neutraal
+woordenboek,definitie,ongelijk,gelijk,neutraal,ongelijk,zeer gelijk,neutraal,neutraal,neutraal,gelijk,gelijk,zeer gelijk,gelijk,gelijk,neutraal,gelijk
+deur,kelder,gelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,neutraal
+leger,legioen,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+metaal,aluminium,neutraal,neutraal,gelijk,ongelijk,zeer gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,ongelijk,zeer gelijk,zeer gelijk,gelijk,gelijk
+stoel,bank,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,neutraal,ongelijk,gelijk,ongelijk,neutraal,neutraal
+wolk,mist,gelijk,neutraal,gelijk,ongelijk,neutraal,neutraal,gelijk,neutraal,gelijk,neutraal,gelijk,neutraal,ongelijk,gelijk,neutraal
+jongen,zoon,gelijk,neutraal,neutraal,gelijk,gelijk,gelijk,neutraal,gelijk,neutraal,ongelijk,gelijk,gelijk,gelijk,gelijk,ongelijk
+water,ijs,gelijk,gelijk,neutraal,ongelijk,neutraal,neutraal,gelijk,neutraal,gelijk,ongelijk,gelijk,ongelijk,ongelijk,neutraal,ongelijk
+bed,deken,ongelijk,gelijk,neutraal,ongelijk,neutraal,neutraal,neutraal,neutraal,neutraal,ongelijk,gelijk,ongelijk,gelijk,neutraal,ongelijk
+officiervanjustitie,advocaat,gelijk,zeer ongelijk,ongelijk,gelijk,neutraal,neutraal,neutraal,gelijk,gelijk,neutraal,ongelijk,neutraal,gelijk,zeer ongelijk,neutraal
+gebied,zone,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk
+bedrijf,onderneming,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk
+kleding,textiel,gelijk,gelijk,gelijk,ongelijk,neutraal,gelijk,neutraal,gelijk,ongelijk,zeer gelijk,gelijk,gelijk,gelijk,zeer gelijk,neutraal
+trui,jas,neutraal,neutraal,ongelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+geld,vermogen,neutraal,neutraal,gelijk,zeer ongelijk,neutraal,neutraal,neutraal,neutraal,gelijk,neutraal,ongelijk,neutraal,ongelijk,ongelijk,neutraal
+hand,voet,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk
+alcohol,cocktail,neutraal,gelijk,gelijk,neutraal,gelijk,zeer gelijk,neutraal,zeer gelijk,gelijk,gelijk,zeer gelijk,neutraal,gelijk,gelijk,gelijk
+decimeter,centimeter,gelijk,gelijk,zeer gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+molecuul,atoom,gelijk,ongelijk,gelijk,zeer gelijk,zeer gelijk,gelijk,zeer gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+lens,camera,zeer ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk
+maaltijd,diner,gelijk,neutraal,neutraal,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal
+oog,traan,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer gelijk,zeer ongelijk,ongelijk,zeer ongelijk,neutraal
+god,duivel,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+lus,riem,ongelijk,neutraal,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer ongelijk,gelijk,ongelijk,neutraal
+rat,muis,gelijk,neutraal,gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk
+motor,aandrijving,ongelijk,ongelijk,gelijk,ongelijk,gelijk,gelijk,zeer gelijk,zeer gelijk,ongelijk,zeer ongelijk,gelijk,gelijk,ongelijk,zeer ongelijk,zeer ongelijk
+auto,taxi,gelijk,ongelijk,neutraal,neutraal,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,neutraal
+kat,leeuw,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk
+maat,omvang,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+werkelijkheid,verbeelding,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,gelijk,ongelijk,zeer ongelijk,gelijk
+deur,poort,gelijk,gelijk,neutraal,zeer ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk,gelijk,neutraal,gelijk,gelijk,ongelijk
+kat,huisdier,ongelijk,ongelijk,zeer gelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,neutraal,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer gelijk,ongelijk
+blik,aluminium,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,gelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,gelijk,ongelijk,ongelijk
+botten,kaak,gelijk,ongelijk,gelijk,zeer gelijk,ongelijk,gelijk,gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk
+graan,tarwe,gelijk,gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,zeer gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+huis,sleutel,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,neutraal
+bloed,vlees,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,zeer gelijk,neutraal,ongelijk,ongelijk,gelijk,gelijk,ongelijk,gelijk
+deur,gang,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk
+god,geest,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer gelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,neutraal,ongelijk,zeer gelijk,zeer ongelijk
+vermogen,competentie,ongelijk,ongelijk,neutraal,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk
+uitbundigheid,overvloed,gelijk,ongelijk,zeer gelijk,ongelijk,gelijk,gelijk,zeer gelijk,neutraal,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,neutraal
+bank,stoel,zeer ongelijk,ongelijk,gelijk,ongelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,neutraal,gelijk,neutraal,ongelijk,ongelijk,zeer ongelijk
+muur,baksteen,gelijk,gelijk,neutraal,ongelijk,gelijk,gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,zeer gelijk,gelijk
+hoorn,trommel,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,neutraal,zeer ongelijk,ongelijk,neutraal,zeer ongelijk,neutraal,ongelijk,zeer ongelijk,gelijk
+orgaan,lever,ongelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,neutraal,ongelijk,ongelijk,gelijk,gelijk,zeer gelijk,gelijk
+kracht,macht,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+zin,woord,neutraal,ongelijk,ongelijk,ongelijk,gelijk,gelijk,neutraal,ongelijk,zeer gelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,gelijk
+muziekgroep,parade,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+buik,taille,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,neutraal,gelijk,ongelijk,ongelijk
+wolk,storm,zeer ongelijk,neutraal,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,gelijk
+vreugde,trots,neutraal,zeer ongelijk,gelijk,gelijk,neutraal,zeer ongelijk,neutraal,neutraal,ongelijk,ongelijk,neutraal,ongelijk,neutraal,neutraal,neutraal
+lawaai,gerammel,gelijk,gelijk,gelijk,ongelijk,neutraal,gelijk,gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,neutraal,ongelijk,gelijk,gelijk
+regen,mist,zeer gelijk,gelijk,neutraal,ongelijk,ongelijk,ongelijk,neutraal,gelijk,gelijk,zeer gelijk,zeer gelijk,neutraal,neutraal,ongelijk,ongelijk
+bier,drank,gelijk,ongelijk,neutraal,neutraal,gelijk,neutraal,neutraal,neutraal,zeer gelijk,neutraal,neutraal,neutraal,neutraal,neutraal,neutraal
+man,oom,ongelijk,neutraal,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,neutraal,ongelijk,zeer ongelijk,neutraal,gelijk
+appel,sap,zeer gelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk,zeer gelijk,ongelijk,neutraal,ongelijk,ongelijk
+intelligentie,logica,gelijk,zeer ongelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,zeer ongelijk,neutraal,zeer gelijk,ongelijk,zeer ongelijk,gelijk,gelijk,neutraal
+communicatie,taal,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,zeer gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk
+nerts,bont,zeer ongelijk,ongelijk,neutraal,zeer gelijk,neutraal,gelijk,gelijk,ongelijk,zeer gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,zeer gelijk
+bende,menigte,neutraal,gelijk,gelijk,gelijk,neutraal,ongelijk,ongelijk,neutraal,ongelijk,neutraal,ongelijk,ongelijk,neutraal,ongelijk,neutraal
+oever,kust,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,neutraal,ongelijk,neutraal,ongelijk,ongelijk
+pijpleiding,kabel,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk
+vogel,kalkoen,zeer ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+bed,wieg,ongelijk,gelijk,gelijk,gelijk,neutraal,ongelijk,neutraal,neutraal,ongelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk
+competentie,vermogen,ongelijk,neutraal,gelijk,ongelijk,gelijk,gelijk,neutraal,neutraal,ongelijk,neutraal,zeer gelijk,ongelijk,gelijk,neutraal,neutraal
+wolk,nevel,zeer gelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk
+avondeten,maaltijd,zeer gelijk,neutraal,gelijk,zeer gelijk,gelijk,gelijk,neutraal,gelijk,zeer gelijk,zeer gelijk,zeer gelijk,zeer gelijk,gelijk,neutraal,gelijk
+balk,kooi,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+water,zout,ongelijk,neutraal,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,zeer ongelijk,neutraal,ongelijk,ongelijk,ongelijk,neutraal,ongelijk
+gevoel,intuïtie,zeer gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,neutraal,neutraal,gelijk,gelijk,neutraal,ongelijk,gelijk,ongelijk,gelijk
+situatie,omstandigheid,gelijk,gelijk,gelijk,gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,gelijk,zeer gelijk
+misdaad,diefstal,neutraal,neutraal,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,neutraal,gelijk,gelijk
+stijl,mode,gelijk,gelijk,gelijk,gelijk,zeer gelijk,neutraal,gelijk,neutraal,ongelijk,zeer gelijk,gelijk,neutraal,neutraal,gelijk,gelijk
+rand,grens,zeer gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,ongelijk,neutraal,ongelijk,ongelijk,neutraal,ongelijk,neutraal,ongelijk,ongelijk
+arm,lichaam,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer gelijk,ongelijk,neutraal,zeer ongelijk,ongelijk,zeer ongelijk,neutraal,ongelijk,ongelijk,zeer gelijk
+boot,auto,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk
+broodje,lunch,gelijk,gelijk,gelijk,zeer gelijk,gelijk,ongelijk,neutraal,gelijk,ongelijk,zeer gelijk,zeer gelijk,neutraal,neutraal,gelijk,gelijk
+bruid,prinses,zeer ongelijk,neutraal,gelijk,gelijk,ongelijk,ongelijk,ongelijk,neutraal,zeer gelijk,neutraal,ongelijk,ongelijk,neutraal,ongelijk,ongelijk
+heldin,held,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,neutraal,ongelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,neutraal
+auto,meter,ongelijk,neutraal,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,zeer ongelijk,ongelijk,neutraal,ongelijk,ongelijk,zeer ongelijk,ongelijk,gelijk
+insect,bij,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,neutraal,ongelijk,neutraal,zeer gelijk,neutraal,ongelijk,neutraal,ongelijk
+kinderbed,wieg,neutraal,gelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,neutraal,ongelijk,gelijk,gelijk
+dier,persoon,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,neutraal
+marihuana,kruid,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk
+bed,ziekenhuis,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk
+wang,tong,gelijk,gelijk,gelijk,ongelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,ongelijk,neutraal
+cd,computer,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk
+bocht,hoek,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,neutraal,ongelijk,neutraal
+gras,mos,gelijk,neutraal,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,neutraal,neutraal,neutraal
+school,wet,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk
+voet,hoofd,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk
+moeder,beschermer,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,neutraal,neutraal
+orthodontist,tandarts,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,neutraal
+alcohol,whisky,gelijk,neutraal,gelijk,neutraal,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,neutraal,neutraal,zeer gelijk,neutraal,gelijk
+mond,tand,neutraal,neutraal,gelijk,gelijk,ongelijk,ongelijk,ongelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,ongelijk,zeer gelijk,neutraal
+ontbijt,spek,ongelijk,gelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,gelijk,ongelijk
+badkamer,slaapkamer,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,neutraal,ongelijk,gelijk
+bord,kom,gelijk,neutraal,gelijk,gelijk,gelijk,ongelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,neutraal,neutraal,neutraal
+vlees,brood,ongelijk,neutraal,gelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk
+lucht,helium,ongelijk,neutraal,gelijk,gelijk,gelijk,gelijk,ongelijk,ongelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,neutraal,neutraal
+arbeider,werkgever,ongelijk,ongelijk,ongelijk,neutraal,gelijk,gelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk
+lichaam,borst,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,zeer gelijk,ongelijk,gelijk,ongelijk,neutraal
+zoon,vader,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer gelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,zeer gelijk,neutraal
+hart,operatie,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,neutraal
+vrouw,secretaresse,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+man,vader,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer gelijk,gelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,zeer gelijk,gelijk
+strand,eiland,gelijk,gelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk,neutraal
+verhaal,onderwerp,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk
+spel,plezier,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,neutraal,gelijk,neutraal,gelijk,neutraal
+weekend,week,gelijk,gelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,ongelijk,neutraal,ongelijk,gelijk
+koppel,paar,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+vrouw,echtgenote,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,ongelijk,gelijk,zeer gelijk,ongelijk,gelijk,zeer gelijk,zeer gelijk,zeer gelijk,zeer gelijk
+schaap,vee,gelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,ongelijk,ongelijk,neutraal
+portemonnee,tas,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk
+dak,kathedraal,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+boon,koffie,gelijk,gelijk,neutraal,gelijk,gelijk,neutraal,neutraal,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+hout,papier,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk
+bovenkant,zijkant,gelijk,ongelijk,ongelijk,neutraal,gelijk,gelijk,gelijk,neutraal,neutraal,neutraal,ongelijk,ongelijk,gelijk,neutraal,neutraal
+misdaad,fraude,ongelijk,gelijk,neutraal,zeer gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,neutraal,ongelijk,gelijk,gelijk,neutraal
+pijn,schade,neutraal,gelijk,neutraal,neutraal,neutraal,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+minnaar,partner,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,neutraal,neutraal
+avond,schemering,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,neutraal,zeer gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,zeer gelijk
+vader,dochter,gelijk,zeer gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,neutraal
+wijn,likeur,ongelijk,gelijk,neutraal,ongelijk,gelijk,neutraal,gelijk,ongelijk,gelijk,neutraal,neutraal,ongelijk,gelijk,gelijk,gelijk
+koe,geit,neutraal,ongelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,ongelijk,neutraal,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk
+geloof,mening,ongelijk,gelijk,ongelijk,ongelijk,neutraal,ongelijk,gelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk,gelijk,neutraal
+werkelijkheid,illusie,gelijk,gelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,zeer ongelijk,ongelijk,gelijk,zeer ongelijk
+overeenkomst,voorwaarde,ongelijk,ongelijk,neutraal,neutraal,neutraal,neutraal,gelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk,gelijk,ongelijk
+rijkdom,armoede,zeer ongelijk,gelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,gelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk
+ongeval,noodgeval,neutraal,ongelijk,neutraal,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk
+strijd,verovering,ongelijk,gelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+vriend,leraar,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,neutraal
+ziekte,besmetting,gelijk,gelijk,neutraal,neutraal,neutraal,ongelijk,gelijk,ongelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk
+spel,truc,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,gelijk,ongelijk,gelijk,gelijk,neutraal
+broer,zoon,gelijk,zeer gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,neutraal
+tante,neef,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk
+arbeider,monteur,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,gelijk,gelijk,gelijk,zeer gelijk
+dokter,orthodontist,ongelijk,gelijk,gelijk,neutraal,zeer gelijk,gelijk,gelijk,neutraal,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk
+eikenboom,esdoorn,ongelijk,gelijk,neutraal,ongelijk,ongelijk,zeer gelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk
+bij,koningin,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer gelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk
+auto,fiets,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+doelwit,zoektocht,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk
+augustus,maand,neutraal,gelijk,gelijk,ongelijk,gelijk,neutraal,gelijk,gelijk,zeer gelijk,gelijk,ongelijk,zeer gelijk,gelijk,gelijk,neutraal
+leger,ploeg,ongelijk,gelijk,neutraal,ongelijk,neutraal,ongelijk,ongelijk,neutraal,neutraal,gelijk,ongelijk,gelijk,ongelijk,gelijk,ongelijk
+wolk,weer,neutraal,ongelijk,neutraal,neutraal,gelijk,neutraal,ongelijk,neutraal,ongelijk,gelijk,neutraal,gelijk,gelijk,gelijk,neutraal
+arts,dokter,gelijk,zeer gelijk,gelijk,gelijk,zeer gelijk,zeer gelijk,neutraal,zeer gelijk,zeer gelijk,zeer gelijk,zeer gelijk,zeer gelijk,gelijk,neutraal,gelijk
+ravijn,vallei,ongelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,zeer ongelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk
+rivier,vallei,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+zon,lucht,neutraal,ongelijk,neutraal,gelijk,neutraal,neutraal,gelijk,gelijk,ongelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,ongelijk
+doel,pijl,gelijk,zeer gelijk,zeer gelijk,zeer gelijk,zeer gelijk,gelijk,zeer ongelijk,zeer gelijk,zeer gelijk,ongelijk,ongelijk,gelijk,gelijk,zeer ongelijk,zeer gelijk
+chocolade,taart,neutraal,gelijk,ongelijk,neutraal,gelijk,gelijk,ongelijk,neutraal,gelijk,neutraal,gelijk,gelijk,ongelijk,zeer gelijk,gelijk
+omstandigheid,situatie,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,zeer gelijk,gelijk,gelijk,gelijk
+mening,keuze,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,gelijk,zeer ongelijk,gelijk,gelijk,ongelijk,zeer ongelijk
+ritme,melodie,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk
+darm,zenuw,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk
+dag,dageraad,ongelijk,neutraal,ongelijk,gelijk,gelijk,gelijk,zeer gelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,zeer ongelijk,ongelijk
+vee,rundvlees,gelijk,zeer gelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,zeer gelijk,gelijk,zeer gelijk,ongelijk,zeer gelijk,ongelijk,gelijk,ongelijk
+dokter,professor,ongelijk,zeer ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,gelijk,ongelijk,ongelijk,zeer ongelijk
+arm,ader,ongelijk,neutraal,ongelijk,ongelijk,zeer ongelijk,gelijk,ongelijk,neutraal,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,neutraal
+kamer,bad,ongelijk,gelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+onderneming,bedrijf,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk
+plezier,voetbal,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk
+heuvel,cliff,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk
+botten,enkel,ongelijk,gelijk,ongelijk,gelijk,gelijk,neutraal,ongelijk,zeer gelijk,ongelijk,zeer gelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk
+appel,snoep,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk
+helper,huishulp,gelijk,gelijk,zeer gelijk,gelijk,zeer gelijk,gelijk,gelijk,zeer gelijk,zeer gelijk,neutraal,gelijk,zeer gelijk,gelijk,zeer gelijk,gelijk
+leider,manager,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,neutraal,gelijk,gelijk,gelijk,ongelijk
+citroen,thee,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+bij,mier,ongelijk,gelijk,ongelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,ongelijk,ongelijk,gelijk
+basketbal,honkbal,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+rijst,boon,gelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,zeer ongelijk,gelijk,gelijk,ongelijk,ongelijk
+bed,meubels,ongelijk,zeer gelijk,gelijk,neutraal,neutraal,zeer gelijk,ongelijk,neutraal,gelijk,neutraal,neutraal,gelijk,ongelijk,zeer gelijk,gelijk
+emotie,passie,gelijk,gelijk,ongelijk,gelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk,ongelijk,zeer gelijk
+anarchie,chaos,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+misdaad,overtreding,gelijk,gelijk,zeer gelijk,ongelijk,gelijk,ongelijk,ongelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk
+machine,aandrijving,gelijk,zeer gelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk,gelijk,ongelijk,zeer gelijk,ongelijk,ongelijk,ongelijk,ongelijk
+strand,zee,gelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,gelijk,zeer gelijk,ongelijk,neutraal,ongelijk,ongelijk,gelijk,gelijk,gelijk
+steeg,kom,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,zeer gelijk,gelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+pot,fles,gelijk,gelijk,gelijk,ongelijk,neutraal,gelijk,ongelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+kracht,vermogen,gelijk,gelijk,zeer gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,neutraal,gelijk,gelijk,ongelijk,zeer gelijk
+zaad,mosterd,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,neutraal,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk
+gitaar,drumstel,ongelijk,gelijk,neutraal,ongelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+mening,idee,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,neutraal,gelijk,gelijk,gelijk
+noord,west,neutraal,zeer gelijk,ongelijk,gelijk,neutraal,zeer ongelijk,neutraal,zeer gelijk,ongelijk,neutraal,neutraal,gelijk,neutraal,zeer gelijk,gelijk
+dieet,salade,gelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,neutraal,ongelijk,gelijk,ongelijk,gelijk,ongelijk,neutraal,ongelijk,ongelijk
+moeder,vrouw,gelijk,gelijk,neutraal,gelijk,zeer gelijk,gelijk,gelijk,neutraal,gelijk,zeer gelijk,gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk
+vader,moeder,gelijk,ongelijk,neutraal,gelijk,gelijk,gelijk,gelijk,neutraal,ongelijk,ongelijk,zeer ongelijk,gelijk,gelijk,zeer ongelijk,gelijk
+kapitein,matroos,ongelijk,ongelijk,neutraal,ongelijk,gelijk,ongelijk,ongelijk,gelijk,ongelijk,neutraal,ongelijk,gelijk,ongelijk,zeer gelijk,gelijk
+meter,decimeter,gelijk,neutraal,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,zeer ongelijk,gelijk
+bier,champagne,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk
+motor,boot,ongelijk,ongelijk,neutraal,ongelijk,gelijk,ongelijk,neutraal,ongelijk,ongelijk,gelijk,gelijk,gelijk,neutraal,ongelijk,gelijk
+kaart,brug,ongelijk,zeer ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,gelijk
+wetenschap,psychologie,gelijk,zeer ongelijk,neutraal,ongelijk,gelijk,ongelijk,neutraal,ongelijk,gelijk,gelijk,ongelijk,neutraal,neutraal,neutraal,gelijk
+zondaar,heilige,gelijk,zeer ongelijk,neutraal,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk
+vernietiging,constructie,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,neutraal,zeer ongelijk,ongelijk
+menigte,massa,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+strand,rif,ongelijk,ongelijk,ongelijk,zeer ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+man,kind,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,zeer ongelijk,neutraal,zeer ongelijk,ongelijk,ongelijk,ongelijk
+brood,kaas,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk
+kampioen,winnaar,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,neutraal,gelijk,gelijk
+feest,ceremonie,gelijk,gelijk,neutraal,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,neutraal,neutraal,gelijk,gelijk,gelijk
+menu,bestelling,neutraal,neutraal,neutraal,neutraal,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,gelijk,neutraal,ongelijk,gelijk,gelijk,ongelijk
+koning,prinses,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,gelijk,zeer ongelijk,neutraal,gelijk,ongelijk
+rijkdom,aanzien,gelijk,gelijk,gelijk,ongelijk,gelijk,ongelijk,neutraal,ongelijk,ongelijk,neutraal,gelijk,neutraal,neutraal,zeer gelijk,ongelijk
+uithoudingsvermogen,kracht,gelijk,ongelijk,neutraal,gelijk,neutraal,ongelijk,neutraal,ongelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+gevaar,bedreiging,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+god,priester,gelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,zeer gelijk,zeer ongelijk,ongelijk,ongelijk,gelijk,zeer ongelijk,ongelijk,ongelijk,gelijk
+mannen,broederschap,gelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,zeer gelijk,ongelijk,ongelijk,zeer gelijk,ongelijk,ongelijk
+vriend,partner,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+leraar,helper,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+lichaam,buik,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk
+tong,keel,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,gelijk,gelijk
+huis,tapijt,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,neutraal,ongelijk,ongelijk,ongelijk
+intelligentie,vaardigheid,ongelijk,gelijk,gelijk,neutraal,ongelijk,gelijk,gelijk,gelijk,neutraal,gelijk,ongelijk,gelijk,neutraal,gelijk,gelijk
+reis,verovering,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk
+god,prooi,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+broer,ziel,neutraal,neutraal,neutraal,ongelijk,neutraal,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk
+tegenstander,rivaal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk
+dood,ramp,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,neutraal,ongelijk,neutraal,neutraal,zeer gelijk,ongelijk,zeer ongelijk,gelijk,ongelijk,zeer ongelijk
+monster,demon,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,zekere gelijkenis,neutraal,neutraal
+dag,ochtend,zeer gelijk,gelijk,ongelijk,gelijk,ongelijk,zeer gelijk,zeer gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,zeer gelijk,ongelijk
+man,winnaar,neutraal,ongelijk,neutraal,gelijk,zeer ongelijk,ongelijk,ongelijk,gelijk,gelijk,ongelijk,neutraal,zeer ongelijk,ongelijk,ongelijk,ongelijk
+vriend,jongen,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,gelijk,neutraal,ongelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk
+lied,verhaal,neutraal,gelijk,gelijk,ongelijk,ongelijk,gelijk,gelijk,neutraal,ongelijk,neutraal,ongelijk,ongelijk,gelijk,neutraal,gelijk
+straal,zonneschijn,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,ongelijk,ongelijk,zeer gelijk,gelijk,gelijk,gelijk,zeer gelijk,zeer gelijk,zeer gelijk
+kerel,hengst,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,neutraal,neutraal,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,neutraal,ongelijk
+kip,rijst,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,neutraal,neutraal,neutraal,neutraal,zeer ongelijk,neutraal,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk
+doos,lift,ongelijk,ongelijk,ongelijk,zeer ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,neutraal,ongelijk,neutraal
+boter,aardappel,neutraal,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk
+appartement,meubels,gelijk,ongelijk,ongelijk,ongelijk,gelijk,zeer gelijk,neutraal,ongelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,neutraal,neutraal
+meer,moeras,gelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,zeer ongelijk,ongelijk,neutraal,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+sla,azijn,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,neutraal,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk
+bloem,bol,gelijk,neutraal,neutraal,gelijk,neutraal,gelijk,neutraal,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,zeer gelijk,neutraal
+wolk,waas,gelijk,neutraal,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,zeer gelijk,gelijk,neutraal,gelijk
+chauffeur,piloot,neutraal,gelijk,gelijk,ongelijk,gelijk,ongelijk,gelijk,neutraal,ongelijk,gelijk,gelijk,ongelijk,ongelijk,gelijk,gelijk
+suiker,honing,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,neutraal,gelijk
+lichaam,schouder,ongelijk,gelijk,gelijk,ongelijk,ongelijk,neutraal,neutraal,ongelijk,zeer ongelijk,ongelijk,neutraal,zeer ongelijk,gelijk,neutraal,ongelijk
+idee,beeld,neutraal,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk
+vader,broer,ongelijk,neutraal,gelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,zeer gelijk,ongelijk
+maan,planeet,gelijk,ongelijk,zeer ongelijk,gelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,zeer gelijk,ongelijk,zeer ongelijk
+bal,handschoen,zeer ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,neutraal,neutraal
+rails,hek,gelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,gelijk,ongelijk,ongelijk
+kamer,bed,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,neutraal,gelijk,gelijk,gelijk,ongelijk,gelijk
+bloem,struik,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer gelijk,neutraal,ongelijk
+botten,knie,zeer gelijk,ongelijk,neutraal,ongelijk,neutraal,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk
+arm,knie,zeer gelijk,zeer gelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,zeer ongelijk,zeer gelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,neutraal,ongelijk
+onderkant,zijkant,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk
+vat,ader,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+kat,konijn,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+vlees,spek,neutraal,gelijk,ongelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,neutraal,neutraal,gelijk,gelijk,gelijk
+geloof,begrip,ongelijk,gelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,neutraal,gelijk,ongelijk,ongelijk,ongelijk
+intelligentie,inzicht,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk
+aandacht,interesse,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk
+houding,zelfvertrouwen,neutraal,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,gelijk,neutraal,neutraal,neutraal,gelijk,ongelijk,ongelijk
+recht,rechtvaardigheid,gelijk,gelijk,gelijk,gelijk,gelijk,zeer ongelijk,zeer ongelijk,zeer gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+argument,overeenkomst,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk
+diepte,omvang,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,zeer ongelijk,neutraal,ongelijk,neutraal,neutraal,ongelijk,ongelijk,gelijk,ongelijk
+medium,nieuws,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+winnaar,kandidaat,gelijk,gelijk,ongelijk,neutraal,gelijk,gelijk,gelijk,neutraal,neutraal,neutraal,gelijk,neutraal,gelijk,gelijk,gelijk
+verjaardag,datum,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk
+vergoeding,betaling,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,neutraal,neutraal,gelijk,gelijk,gelijk,gelijk
+bijbel,psalm,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+uitgang,deuropening,ongelijk,ongelijk,ongelijk,neutraal,gelijk,gelijk,gelijk,zeer gelijk,ongelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk
+man,schildwacht,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk
+gangpad,hal,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk
+whisky,jenever,neutraal,ongelijk,gelijk,neutraal,neutraal,ongelijk,gelijk,ongelijk,ongelijk,neutraal,gelijk,neutraal,gelijk,gelijk,gelijk
+bloed,merg,gelijk,gelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,neutraal,ongelijk,ongelijk,gelijk,ongelijk
+olie,nerts,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,gelijk,ongelijk,ongelijk,neutraal,neutraal,neutraal,ongelijk,ongelijk,ongelijk
+vloer,dek,gelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk
+dak,vloer,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk
+deur,vloer,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+schouder,hoofd,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk,gelijk,gelijk,ongelijk
+wagen,rijtuig,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+auto,rijtuig,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,zeer gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk
+elleboog,enkel,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+rijkdom,bekendheid,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,neutraal,ongelijk,ongelijk,ongelijk
+verdriet,schaamte,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+administratie,management,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,zeer gelijk,zeer gelijk,neutraal,ongelijk,gelijk,gelijk
+communicatie,gesprek,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,ongelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk
+vervuiling,atmosfeer,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk
+anatomie,biologie,gelijk,zeer gelijk,gelijk,zeer gelijk,gelijk,zeer gelijk,zeer gelijk,gelijk,zeer gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,zeer gelijk
+hogeschool,beroep,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk
+boek,onderwerp,neutraal,neutraal,zeer ongelijk,ongelijk,gelijk,neutraal,ongelijk,neutraal,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+formule,vergelijking,gelijk,zeer gelijk,neutraal,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+boek,informatie,ongelijk,gelijk,neutraal,neutraal,ongelijk,gelijk,ongelijk,ongelijk,neutraal,gelijk,ongelijk,neutraal,neutraal,ongelijk,neutraal
+jongen,partner,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk
+hemel,universum,gelijk,gelijk,neutraal,ongelijk,gelijk,ongelijk,neutraal,gelijk,gelijk,gelijk,gelijk,neutraal,zeer gelijk,gelijk,ongelijk
+bevolking,mensen,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,neutraal,gelijk,neutraal,gelijk,gelijk,zeer gelijk,zeer gelijk
+hogeschool,klas,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+leider,burgemeester,gelijk,gelijk,ongelijk,neutraal,gelijk,neutraal,neutraal,gelijk,neutraal,neutraal,gelijk,gelijk,gelijk,gelijk,ongelijk
+rabbijn,geestelijke,gelijk,gelijk,neutraal,zeer gelijk,gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,zeer gelijk
+meter,centimeter,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,zeer gelijk,gelijk,zeer gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk
+polyester,katoen,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,zeer ongelijk
+advocaat,bankier,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,neutraal,ongelijk,ongelijk,ongelijk
+viool,instrument,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk
+opslagplaats,hut,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk
+pot,huishoudelijkapparaat,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk
+linnen,stof,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,zeer gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk
+whisky,champagne,ongelijk,zeer gelijk,neutraal,ongelijk,gelijk,ongelijk,zeer gelijk,gelijk,neutraal,gelijk,neutraal,neutraal,ongelijk,ongelijk,neutraal
+meisje,kind,gelijk,gelijk,gelijk,ongelijk,gelijk,neutraal,neutraal,gelijk,ongelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk
+hut,huisje,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,neutraal,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk
+vogel,kip,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk
+raket,lawaai,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk
+zonsondergang,avond,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,neutraal,gelijk,gelijk,gelijk,zeer gelijk,gelijk,zeer gelijk,gelijk,zeer gelijk
+motregen,regen,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,neutraal,zeer gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk
+volwassene,baby,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+houtskool,kool,gelijk,neutraal,gelijk,gelijk,ongelijk,gelijk,neutraal,gelijk,zeer gelijk,gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,gelijk
+lichaam,ruggengraat,ongelijk,zeer gelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+hoofd,nagel,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk
+boomstam,hout,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk
+lepel,beker,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,neutraal,gelijk,ongelijk,ongelijk,ongelijk
+lichaam,zenuw,gelijk,zeer gelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer gelijk,ongelijk,neutraal,neutraal,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk
+man,echtgenoot,ongelijk,ongelijk,gelijk,ongelijk,neutraal,gelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,zeer gelijk,gelijk,gelijk,gelijk
+botten,nek,neutraal,neutraal,ongelijk,gelijk,ongelijk,zeer gelijk,zeer gelijk,neutraal,neutraal,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk
+frustratie,woede,gelijk,gelijk,neutraal,gelijk,neutraal,gelijk,neutraal,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,ongelijk,gelijk
+rivier,zee,ongelijk,neutraal,ongelijk,zeer ongelijk,gelijk,zeer ongelijk,neutraal,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+taak,beroep,neutraal,gelijk,gelijk,neutraal,ongelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,neutraal
+vereniging,maatschappij,ongelijk,ongelijk,neutraal,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,neutraal,ongelijk,neutraal,zeer ongelijk,gelijk
+reflectie,afbeelding,gelijk,ongelijk,ongelijk,neutraal,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,ongelijk
+prins,koning,ongelijk,ongelijk,zeer ongelijk,neutraal,ongelijk,gelijk,neutraal,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+sneeuw,weer,ongelijk,ongelijk,neutraal,gelijk,neutraal,ongelijk,ongelijk,gelijk,gelijk,neutraal,ongelijk,neutraal,zeer ongelijk,ongelijk,neutraal
+mensen,partij,ongelijk,gelijk,neutraal,neutraal,ongelijk,gelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,neutraal,ongelijk,neutraal,ongelijk,gelijk
+jongen,broer,neutraal,gelijk,gelijk,zeer gelijk,gelijk,zeer gelijk,ongelijk,gelijk,neutraal,gelijk,ongelijk,zeer gelijk,ongelijk,ongelijk,gelijk
+wortel,gras,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,neutraal,ongelijk,neutraal,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk
+wenkbrauw,oog,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,neutraal,zeer ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk
+geld,parel,zeer ongelijk,zeer ongelijk,neutraal,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,gelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk
+geld,diamant,zeer ongelijk,zeer ongelijk,neutraal,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk
+voertuig,bus,ongelijk,neutraal,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,ongelijk,ongelijk,neutraal,gelijk,zeer gelijk
+taxi,bus,gelijk,neutraal,ongelijk,zeer ongelijk,zeer gelijk,zeer gelijk,ongelijk,ongelijk,ongelijk,zeer gelijk,ongelijk,zeer gelijk,gelijk,ongelijk,gelijk
+huis,schuur,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+vinger,handpalm,gelijk,gelijk,ongelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+auto,brug,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+inspanning,moeilijkheid,neutraal,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,ongelijk,zeer gelijk,gelijk,gelijk,gelijk
+feit,inzicht,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,gelijk
+beroep,management,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,gelijk,ongelijk
+kanker,ziekte,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+woord,krant,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,neutraal,neutraal,ongelijk,ongelijk
+componist,schrijver,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk,gelijk,gelijk,zeer gelijk,gelijk,ongelijk,gelijk
+acteur,zanger,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,neutraal,ongelijk,gelijk,gelijk,zeer gelijk,gelijk,ongelijk,gelijk
+schuilplaats,hut,ongelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+badkamer,keuken,ongelijk,neutraal,ongelijk,ongelijk,gelijk,neutraal,ongelijk,gelijk,gelijk,ongelijk,zeer gelijk,zeer gelijk,neutraal,ongelijk,gelijk
+cabine,hut,neutraal,gelijk,neutraal,gelijk,zeer gelijk,gelijk,ongelijk,ongelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk
+deur,keuken,ongelijk,neutraal,ongelijk,ongelijk,gelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer gelijk,ongelijk,neutraal,ongelijk,ongelijk
+waarde,geloof,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,gelijk,ongelijk,neutraal,ongelijk,neutraal,ongelijk,gelijk
+wijsheid,intelligentie,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,zeer gelijk,gelijk,gelijk,ongelijk,gelijk
+onwetendheid,intelligentie,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+gelukkigheid,geluk,ongelijk,gelijk,gelijk,gelijk,neutraal,gelijk,zeer ongelijk,gelijk,gelijk,ongelijk,neutraal,neutraal,ongelijk,gelijk,ongelijk
+idee,plan,neutraal,neutraal,gelijk,ongelijk,gelijk,gelijk,ongelijk,zeer gelijk,ongelijk,neutraal,gelijk,gelijk,neutraal,gelijk,gelijk
+humeur,emotie,zeer gelijk,gelijk,gelijk,neutraal,gelijk,zeer gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,neutraal
+gelukkigheid,vrede,ongelijk,neutraal,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk
+wanhoop,ongeluk,gelijk,zeer gelijk,ongelijk,ongelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,ongelijk,neutraal,gelijk,gelijk,gelijk,gelijk
+logica,rekenkunde,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer gelijk,ongelijk,gelijk,zeer gelijk,ongelijk,ongelijk,ongelijk,ongelijk
+ontkenning,bekentenis,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+argument,kritiek,ongelijk,ongelijk,ongelijk,neutraal,neutraal,gelijk,ongelijk,gelijk,ongelijk,gelijk,ongelijk,gelijk,neutraal,ongelijk,ongelijk
+agressie,vijandigheid,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+hysterie,verwarring,zeer gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk
+scheikunde,theorie,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk
+juridischeprocedures,oordeel,ongelijk,ongelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,gelijk,ongelijk,ongelijk,ongelijk
+comfort,veiligheid,ongelijk,neutraal,ongelijk,gelijk,gelijk,zeer ongelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk,gelijk,neutraal,neutraal
+zelfvertrouwen,zelf,ongelijk,neutraal,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,gelijk,neutraal,gelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+visie,perceptie,ongelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,ongelijk,neutraal,gelijk,ongelijk,gelijk,gelijk,neutraal,ongelijk,gelijk
+tijdperk,decennium,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,gelijk,gelijk,gelijk
+biografie,fictie,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk
+discussie,argument,gelijk,gelijk,neutraal,ongelijk,neutraal,gelijk,gelijk,ongelijk,gelijk,neutraal,gelijk,neutraal,neutraal,gelijk,ongelijk
+code,symbool,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,zeer ongelijk,ongelijk,gelijk,ongelijk,gelijk,neutraal,ongelijk,ongelijk
+gevaar,ziekte,gelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,gelijk
+ongeval,ramp,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,gelijk,gelijk
+reis,excursie,ongelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk
+activiteit,beweging,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+roddel,nieuws,ongelijk,neutraal,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+vader,god,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,neutraal,zeer ongelijk,zeer ongelijk,neutraal,gelijk
+actie,cursus,ongelijk,ongelijk,ongelijk,zeer ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,gelijk,ongelijk
+koorts,ziekte,ongelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,ongelijk,gelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,neutraal
+luchtvaart,vlucht,ongelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,neutraal,gelijk,neutraal,gelijk,gelijk
+spel,actie,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk
+molecuul,lucht,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+huis,toestand,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,gelijk,ongelijk,ongelijk
+woord,literatuur,ongelijk,neutraal,ongelijk,zeer ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk
+volwassene,voogd,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk
+krant,informatie,neutraal,gelijk,gelijk,gelijk,gelijk,neutraal,neutraal,neutraal,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,neutraal
+communicatie,televisie,gelijk,neutraal,neutraal,ongelijk,gelijk,ongelijk,gelijk,gelijk,ongelijk,neutraal,neutraal,gelijk,ongelijk,zeer gelijk,gelijk
+neef,oom,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,neutraal,neutraal,gelijk,gelijk,gelijk,ongelijk,gelijk,ongelijk,gelijk
+auteur,lezer,zeer ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk
+kerel,partner,ongelijk,ongelijk,neutraal,niet gerelateerd,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,neutraal,ongelijk,neutraal,zeer ongelijk,neutraal,neutraal
+gebied,hoek,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+ballade,lied,gelijk,neutraal,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk
+muur,decoratie,zeer ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,verschillend,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk
+woord,pagina,gelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,ongelijk
+verpleegster,wetenschapper,zeer ongelijk,ongelijk,neutraal,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk
+politicus,president,gelijk,zeer gelijk,gelijk,neutraal,gelijk,gelijk,ongelijk,gelijk,ongelijk,gelijk,neutraal,neutraal,ongelijk,gelijk,gelijk
+president,burgemeester,gelijk,gelijk,zeer gelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,gelijk,zeer gelijk,gelijk,neutraal,gelijk,zeer gelijk,gelijk
+boek,essay,gelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,neutraal
+man,strijder,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk
+artikel,tijdschrift,gelijk,gelijk,gelijk,ongelijk,neutraal,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,zeer gelijk,neutraal
+ontbijt,avondeten,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,verschillend,gelijk,ongelijk,neutraal,neutraal,ongelijk,gelijk,ongelijk,ongelijk
+menigte,parade,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,neutraal,ongelijk,gelijk,gelijk,neutraal,ongelijk
+gangpad,gang,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,zeer gelijk,gelijk
+leraar,rabbijn,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,verschillend,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk
+heup,lip,zeer ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,neutraal,ongelijk,ongelijk
+boek,artikel,neutraal,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,neutraal
+kamer,gevangeniscel,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,neutral
+doos,kraampje,zeer ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,verschillend,neutraal,ongelijk,neutraal,ongelijk,ongelijk,gelijk,ongelijk,ongelijk
+dochter,kind,gelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,zeer gelijk,ongelijk,ongelijk,gelijk,neutraal,gelijk
+ledemaat,been,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+lever,long,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+klaslokaal,gang,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+berg,richel,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+auto,lift,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk
+bed,bank,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,neutraal,ongelijk,neutraal,ongelijk,ongelijk,gelijk,neutraal,ongelijk
+kleding,knoop,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk
+kleding,jas,gelijk,zeer gelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk
+nier,orgaan,zeer gelijk,neutraal,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,zeer gelijk,zeer gelijk,ongelijk,gelijk
+appel,saus,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+kip,steak,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,neutraal
+auto,slang,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk
+tabak,sigaret,gelijk,neutraal,gelijk,gelijk,zeer gelijk,gelijk,gelijk,neutraal,zeer gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk
+student,professor,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,gelijk,gelijk,gelijk,ongelijk,gelijk
+baby,dochter,neutraal,gelijk,ongelijk,gelijk,neutraal,gelijk,ongelijk,neutraal,zeer gelijk,zeer gelijk,neutraal,zeer gelijk,gelijk,gelijk,gelijk
+pijp,sigaar,gelijk,neutraal,gelijk,gelijk,zeer ongelijk,ongelijk,neutraal,zeer gelijk,zeer gelijk,gelijk,gelijk,ongelijk,gelijk,neutraal,gelijk
+melk,sap,neutraal,zeer ongelijk,ongelijk,gelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk
+doos,sigaar,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk
+appartement,hotel,neutraal,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+beker,wafel,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+paard,os,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,neutraal,gelijk,ongelijk,zeer ongelijk,ongelijk,gelijk,gelijk,zeer gelijk
+keel,neus,ongelijk,neutraal,ongelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk
+botten,tanden,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,zeer gelijk,gelijk,neutraal,gelijk
+botten,elleboog,gelijk,ongelijk,zeer ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,gelijk,ongelijk,ongelijk
+spek,boon,ongelijk,zeer ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,neutraal,ongelijk,ongelijk,zeer ongelijk,ongelijk
+beker,pot,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer gelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk
+bewijs,feit,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+overeenkomst,afspraak,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+verjaardag,jaar,ongelijk,zeer ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk
+woord,referentie,gelijk,neutraal,gelijk,ongelijk,neutraal,ongelijk,gelijk,neutraal,ongelijk,neutraal,ongelijk,ongelijk,gelijk,ongelijk,neutraal
+auteur,maker,zeer gelijk,neutraal,gelijk,gelijk,gelijk,ongelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer ongelijk,ongelijk
+atoom,koolstof,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,gelijk
+aartsbisschop,bisschop,gelijk,zeer gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+brief,paragraaf,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+pagina,paragraaf,gelijk,gelijk,gelijk,gelijk,neutraal,ongelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+kerktoren,kapel,zeer gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,zeer gelijk,gelijk,ongelijk,gelijk
+spier,botten,ongelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,neutraal,gelijk,ongelijk,ongelijk,ongelijk,ongelijk
+spier,tong,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk
+jongen,soldaat,ongelijk,neutraal,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,gelijk
+buik,onderbuik,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk
+kerel,meisje,neutraal,neutraal,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,zeer ongelijk,zeer gelijk
+bed,stoel,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk
+kleding,mantel,zeer gelijk,gelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,gelijk,gelijk,ongelijk,gelijk
+pistool,mes,zeer ongelijk,neutraal,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,gelijk,neutraal,neutraal,neutraal,ongelijk,ongelijk,zeer ongelijk,ongelijk
+blik,metaal,neutraal,gelijk,gelijk,neutraal,zeer gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+fles,container,neutraal,gelijk,zeer gelijk,gelijk,neutraal,gelijk,neutraal,ongelijk,neutraal,zeer gelijk,gelijk,neutraal,gelijk,neutraal,neutraal
+kip,kalkoen,gelijk,gelijk,ongelijk,ongelijk,gelijk,neutraal,gelijk,gelijk,gelijk,zeer gelijk,ongelijk,gelijk,neutraal,gelijk,gelijk
+vlees,broodje,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,gelijk,zeer ongelijk,neutraal,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk
+arm,botten,gelijk,zeer ongelijk,ongelijk,neutraal,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,zeer ongelijk,ongelijk,ongelijk,ongelijk
+hals,ruggengraat,zeer gelijk,zeer ongelijk,ongelijk,neutraal,gelijk,zeer gelijk,ongelijk,gelijk,neutraal,gelijk,ongelijk,gelijk,ongelijk,zeer ongelijk,gelijk
+appel,citroen,gelijk,neutraal,ongelijk,ongelijk,ongelijk,neutraal,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk
+lijden,verdriet,ongelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,zeer gelijk,zeer gelijk,gelijk
+opdracht,taak,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,neutraal,gelijk,neutraal,gelijk,gelijk,gelijk
+nacht,dageraad,ongelijk,neutraal,zeer ongelijk,neutraal,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer gelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk
+diner,soep,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk
+kalf,stier,ongelijk,gelijk,ongelijk,ongelijk,gelijk,neutraal,gelijk,zeer ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,gelijk,gelijk
+sneeuw,storm,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,gelijk,ongelijk,zeer ongelijk,ongelijk
+nagel,hand,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,neutraal,neutraal,ongelijk,zeer ongelijk,ongelijk,ongelijk
+hond,paard,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,ongelijk,gelijk,gelijk
+arm,hals,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer gelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk
+kogel,kanon,zeer gelijk,gelijk,zeer gelijk,ongelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,neutraal
+griep,koorts,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+vergoeding,salaris,ongelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,neutraal,neutraal,gelijk,neutraal,gelijk,gelijk
+zenuw,hersenen,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,neutraal,ongelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,zeer ongelijk,neutraal,ongelijk
+beest,dier,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk
+diner,kip,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,gelijk,ongelijk,zeer ongelijk,gelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,neutraal
+meisje,dienstmeisje,gelijk,gelijk,zeer gelijk,gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,neutraal,gelijk,gelijk,gelijk
+kind,jongen,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,zeer gelijk,gelijk,zeer gelijk,neutraal,gelijk,neutraal,gelijk,gelijk
+alcohol,wijn,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,ongelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+neus,mond,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+weg,steeg,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,neutraal,ongelijk,ongelijk
+bel,deur,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,neutraal,ongelijk,ongelijk,gelijk
+doos,hoed,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,zeer ongelijk,gelijk,gelijk,neutraal,ongelijk,ongelijk
+geloof,indruk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk,neutraal,zeer ongelijk,gelijk,ongelijk
+vooroordeel,mening,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk
+aandacht,bewustzijn,neutraal,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,zeer gelijk,ongelijk,gelijk
+woede,stemming,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,neutraal,gelijk,gelijk,gelijk,neutraal,gelijk
+elegantie,stijl,ongelijk,zeer gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,zeer gelijk,ongelijk,neutraal,ongelijk,gelijk,zeer gelijk,gelijk,gelijk
+schoonheid,leeftijd,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+boek,thema,ongelijk,zeer ongelijk,gelijk,ongelijk,neutraal,ongelijk,gelijk,neutraal,ongelijk,neutraal,neutraal,gelijk,ongelijk,ongelijk,gelijk
+vriend,moeder,neutraal,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,gelijk,zeer ongelijk,ongelijk
+vitamine,ijzer,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+auto,fabriek,ongelijk,ongelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,ongelijk
+verdrag,overeenkomst,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,zeer gelijk,zeer gelijk
+hoofdstuk,keuze,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,neutraal,ongelijk
+rekenkunde,ritme,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,neutraal,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk
+winnaar,aanwezigheid,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,gelijk,zeer ongelijk,ongelijk
+geloof,bloem,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+winnaar,doel,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,zeer ongelijk
+truc,maat,neutraal,ongelijk,neutraal,ongelijk,gelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,neutraal,ongelijk,ongelijk,gelijk,neutraal,neutraal
+keuze,neiging,ongelijk,ongelijk,neutraal,ongelijk,gelijk,zeer ongelijk,ongelijk,neutraal,ongelijk,neutraal,ongelijk,gelijk,neutraal,ongelijk,gelijk
+volkslied,verovering,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,neutraal,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+uithoudingsvermogen,muziekgroep,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+gevangenis,keuze,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+conditie,jongen,neutraal,ongelijk,gelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,gelijk,neutraal,gelijk,gelijk,zeer gelijk,zeer ongelijk,ongelijk
+bloem,volharding,zeer ongelijk,gelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+gat,overeenkomst,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,neutraal,zeer ongelijk
+dokter,temperament,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk
+broederschap,deur,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk
+taak,vrouw,ongelijk,ongelijk,zeer ongelijk,gelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk
+broederschap,honkbal,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,gelijk,zeer ongelijk,zeer gelijk,zeer ongelijk,ongelijk
+cent,maat,neutraal,ongelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,ongelijk,ongelijk,neutraal,ongelijk,gelijk,ongelijk,neutraal,gelijk
+aanwezigheid,deur,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk
+muis,beheer,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer gelijk,ongelijk,neutraal,ongelijk,neutraal,ongelijk,ongelijk,neutraal,ongelijk,zeer ongelijk
+taak,snelweg,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+likeur,eeuw,ongelijk,neutraal,neutraal,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,neutraal,zeer ongelijk,neutraal,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+taak,rietje,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk
+eiland,taak,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+nacht,hoofdstuk,ongelijk,ongelijk,zeer gelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+vervuiling,president,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+pistool,truc,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+bad,truc,gelijk,neutraal,gelijk,ongelijk,gelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,neutraal,gelijk,neutraal,ongelijk,gelijk
+dieet,appel,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk
+cent,vrouw,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,gelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk
+hoofdstuk,staart,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,neutraal,neutraal,ongelijk,gelijk,ongelijk,ongelijk
+cursus,buik,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk
+volkslied,rietje,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk
+tandarts,kolonel,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk
+echtgenote,rietje,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk
+gat,vrouw,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+student,president,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk
+bad,vrouw,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+mensen,cent,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,neutraal,zeer ongelijk
+formule,logaritme,ongelijk,zeer gelijk,ongelijk,gelijk,gelijk,ongelijk,gelijk,ongelijk,gelijk,neutraal,gelijk,zeer ongelijk,gelijk,neutraal,zeer ongelijk
+vrouw,bont,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,gelijk,ongelijk
+appel,zonneschijn,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk
+pistool,dageraad,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk
+maaltijd,staart,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+camera,president,zeer ongelijk,zeer gelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk
+likeur,muziekgroep,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk
+buik,ader,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk
+pistool,bont,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,zeer ongelijk,ongelijk,ongelijk,ongelijk
+bank,honkbal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk
+arbeider,camera,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk
+dek,muis,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk
+rijst,jongen,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk
+mensen,pistool,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk
+klif,staart,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+enkel,raam,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+prinses,eiland,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk
+container,muis,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+wagen,container,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+mensen,ballon,neutraal,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,neutraal,ongelijk
+dollar,mensen,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+bad,ballon,ongelijk,zeer ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,neutraal,ongelijk,ongelijk,neutraal,ongelijk,neutraal
+buik,slaapkamer,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,neutraal,neutraal
+fiets,slaapkamer,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal
+boomstam,bad,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+kom,staart,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,neutraal,zeer ongelijk,ongelijk
+gaan,toestaan,ongelijk,neutraal,ongelijk,neutraal,neutraal,neutraal,neutraal,ongelijk,neutraal,neutraal,neutraal,neutraal,neutraal,neutraal,gelijk
+nemen,stelen,ongelijk,neutraal,neutraal,ongelijk,neutraal,neutraal,gelijk,ongelijk,neutraal,neutraal,neutraal,neutraal,ongelijk,ongelijk,ongelijk
+luisteren,horen,gelijk,gelijk,zeer gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+denken,rationaliseren,zeer gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk
+plaatsvinden,voorkomen,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,neutraal,ongelijk,neutraal,neutraal,gelijk,ongelijk,gelijk,ongelijk
+voorbijgaan,verdwijnen,ongelijk,gelijk,neutraal,neutraal,gelijk,neutraal,gelijk,neutraal,ongelijk,gelijk,neutraal,gelijk,ongelijk,gelijk,gelijk
+vermenigvuldigen,delen,gelijk,ongelijk,zeer ongelijk,zeer gelijk,zeer ongelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,ongelijk,neutraal,gelijk
+pleiten,bedelen,ongelijk,gelijk,neutraal,ongelijk,gelijk,gelijk,gelijk,neutraal,ongelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,neutraal
+beginnen,ontstaan,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+beschermen,verdedigen,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+doden,vernietigen,gelijk,gelijk,zeer gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk
+creëren,maken,gelijk,gelijk,zeer gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk
+accepteren,weigeren,ongelijk,ongelijk,neutraal,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,gelijk,gelijk,neutraal,gelijk,ongelijk,ongelijk,ongelijk
+negeren,vermijden,gelijk,gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+dragen,brengen,ongelijk,gelijk,zeer gelijk,ongelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,ongelijk
+vertrekken,binnenkomen,gelijk,neutraal,ongelijk,ongelijk,gelijk,neutraal,gelijk,ongelijk,gelijk,gelijk,neutraal,gelijk,ongelijk,neutraal,ongelijk
+kiezen,stemmenop,neutraal,ongelijk,neutraal,ongelijk,ongelijk,neutraal,ongelijk,zeer ongelijk,neutraal,ongelijk,neutraal,zeer gelijk,ongelijk,ongelijk,gelijk
+verliezen,falen,zeer gelijk,gelijk,zeer gelijk,neutrall,neutraal,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk
+aanmoedigen,ontmoedigen,ongelijk,gelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,ongelijk
+bereiken,volbrengen,gelijk,neutraal,zeer gelijk,ongelijk,ongelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk
+maken,opbouwen,neutraal,gelijk,zeer gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,zeer gelijk,gelijk
+luisteren,gehoorzamen,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,zeer ongelijk,gelijk,gelijk,gelijk,zeer gelijk,neutraal,ongelijk,ongelijk
+delen,melden,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,neutraal,ongelijk,ongelijk,ongelijk,gelijk,gelijk,gelijk,zeer gelijk,ongelijk,ongelijk,ongelijk
+ontvangen,geven,gelijk,gelijk,neutraal,ongelijk,neutraal,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,neutraal,gelijk
+lenen,smeken,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+nemen,verkrijgen,neutraal,ongelijk,ongelijk,gelijk,neutraal,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk
+adviseren,aanbevelen,zeer gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+imiteren,uitbeelden,gelijk,neutraal,gelijk,ongelijk,gelijk,neutraal,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,gelijk,neutraal,gelijk,zeer gelijk
+winnen,slagen,gelijk,gelijk,zelr ongelijk,ongelijk,neutraal,gelijk,gelijk,ongelijk,zeer gelijk,neutraal,neutraal,ongelijk,ongelijk,ongelijk,neutraal
+denken,besluiten,neutraal,ongelijk,ongelijk,gelijk,zeer gelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,gelijk,gelijk,gelijk,neutraal,ongelijk
+groeten,ontmoeten,gelijk,gelijk,ongelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,ongelijk,gelijk,neutraal,gelijk,gelijk
+akkoordgaan,argumenteren,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+genieten,vermaken,gelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,gelijk,zeer ongelijk,gelijk,ongelijk,ongelijk,ongelijk,neutraal,gelijk,zeer gelijk
+vernietigen,maken,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+redden,beschermen,gelijk,ongelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk
+geven,lenen,ongelijk,zeer ongelijk,neutraal,zeer ongelijk,ongelijk,zeer ongelijk,neutraal,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+begrijpen,weten,gelijk,gelijk,ongelijk,gelijk,gelijk,neutraal,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+nemen,ontvangen,ongelijk,gelijk,ongelijk,ongelijk,neutraal,ongelijk,zeer gelijk,ongelijk,gelijk,ongelijk,gelijk,zeer gelijk,ongelijk,ongelijk,neutraal
+accepteren,erkennen,gelijk,ongelijk,zeer gelijk,gelijk,zeer gelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer gelijk,gelijk,ongelijk,ongelijk,ongelijk,gelijk
+beslissen,kiezen,zeer gelijk,ongelijk,gelijk,gelijk,zeer gelijk,ongelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+accepteren,geloven,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk
+houden,bezitten,gelijk,gelijk,ongelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+rondzwerven,dwalen,gelijk,gelijk,gelijk,zeer gelijk,zeer gelijk,neutraal,gelijk,zeer gelijk,ongelijk,gelijk,ongelijk,gelijk,zeer gelijk,gelijk,gelijk
+slagen,falen,ongelijk,neutraal,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk
+besteden,redden,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+vertrekken,gaan,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,ongelijk,gelijk,gelijk
+komen,bijwonen,ongelijk,gelijk,ongelijk,ongelijk,neutraal,neutraal,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,gelijk,neutraal,neutraal,zeer ongelijk
+weten,geloven,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk,ongelijk
+verzamelen,ontmoeten,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,gelijk,ongelijk
+maken,verdienen,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk
+vergeten,negeren,zeer gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,ongelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk
+vermenigvuldigen,toevoegen,gelijk,gelijk,gelijk,ongelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,neutraal
+krimpen,groeien,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk
+aankomen,komen,gelijk,gelijk,ongelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,zeer gelijk,ongelijk,gelijk,gelijk
+slagen,proberen,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk
+accepteren,ontkennen,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer gelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk
+aankomen,vertrekken,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk
+akkoordgaan,afwijken,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+sturen,ontvangen,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk
+winnen,domineren,neutraal,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,neutraal,gelijk,neutraal,ongelijk,gelijk,zeer gelijk,ongelijk
+toevoegen,verdelen,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk
+doden,wurgen,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,gelijk,zeer ongelijk,zeer gelijk,zeer ongelijk,zeer ongelijk,zeer gelijk,zeer ongelijk,zeer gelijk,zeer gelijk,ongelijk,zeer ongelijk
+verwerven,krijgen,gelijk,gelijk,gelijk,neutraal,gelijk,neutraal,zeer gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk
+deelnemen,meedoen,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk
+vertrekken,achterblijven,gelijk,gelijk,zeer gelijk,zeer ongelijk,gelijk,zeer ongelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,neutraal,gelijk,zeer gelijk,gelijk
+gaan,komen,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk
+nemen,dragen,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,neutraal
+vergeten,leren,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk
+benoemen,kiezen,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,zeer ongelijk,zeer gelijk,ongelijk,ongelijk,ongelijk
+verloven,trouwen,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,zeer gelijk,gelijk
+vragen,bidden,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk
+gaan,sturen,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk
+nemen,leveren,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,neutraal,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,neutraal
+spreken,luisteren,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,neutraal,zeer gelijk,gelijk,gelijk,ongelijk
+analyseren,evalueren,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,zeer gelijk,gelijk
+argumenteren,rationaliseren,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,zeer gelijk,neutraal,gelijk,ongelijk,gelijk,ongelijk,gelijk
+verliezen,houden,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+vergelijken,analyseren,gelijk,zeer gelijk,ongelijk,ongelijk,gelijk,gelijk,ongelijk,neutraal,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+desorganiseren,organiseren,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,gelijk,ongelijk,zeer gelijk,ongelijk,neutraal,neutraal,ongelijk,zeer ongelijk,zeer ongelijk
+gaan,verkopen,ongelijk,ongelijk,zeer gelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk
+nemen,bezitten,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,neutraal
+leren,luisteren,gelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk,zeer gelijk,ongelijk,ongelijk
+vernietigen,bouwen,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+creëren,bouwen,gelijk,neutraal,gelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+stelen,kopen,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,neutraal
+doden,ophangen,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,gelijk,zeer ongelijk,zeer ongelijk,zeer gelijk,zeer ongelijk,zeer gelijk,zeer ongelijk,zeer gelijk,gelijk,ongelijk,zeer ongelijk
+vergeten,weten,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+creëren,voorstellen,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,neutraal,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk
+doen,gebeuren,neutraal,gelijk,gelijk,neutraal,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk
+winnen,bereiken,neutraal,zeer gelijk,gelijk,ongelijk,ongelijk,neutraal,neutraal,ongelijk,gelijk,gelijk,neutraal,ongelijk,ongelijk,gelijk,gelijk
+geven,weigeren,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+verdienen,nemen,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk
+krijgen,zetten,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,zeer ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk
+lokaliseren,vinden,ongelijk,neutraal,neutraal,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,neutraal,gelijk,gelijk,gelijk
+verschijnen,bijwonen,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,neutraal,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+weten,begrijpen,neutraal,zeer gelijk,ongelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk
+doenalsof,voorstellen,gelijk,gelijk,gelijk,zeer gelijk,ongelijk,gelijk,zeer gelijk,gelijk,gelijk,ongelijk,gelijk,ongelijk,gelijk,zeer gelijk,ongelijk
+tevredenstellen,voldoen,zeer gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,zeer gelijk,gelijk,zeer gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk
+koesteren,houden,neutraal,zeer gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+argumenteren,verschillen,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,neutraal,zeer ongelijk,zeer ongelijk
+overwinnen,domineren,gelijk,ongelijk,ongelijk,zeer gelijk,ongelijk,ongelijk,zeer gelijk,ongelijk,zeer gelijk,gelijk,zeer ongelijk,gelijk,zeer ongelijk,zeer gelijk,ongelijk
+zichgedragen,gehoorzamen,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+samenwerken,deelnemen,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,gelijk,ongelijk
+bereiken,proberen,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk
+falen,ontmoedigen,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer gelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk
+beginnen,stoppen,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk
+zeggen,deelnemen,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+komen,brengen,neutraal,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+bekendmaken,aankondigen,zeer gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,zeer gelijk,gelijk,ongelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk
+lezen,begrijpen,zeer ongelijk,gelijk,ongelijk,neutraal,gelijk,ongelijk,ongelijk,ongelijk,neutraal,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk
+nemen,achterlaten,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+verkondigen,aankondigen,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,gelijk,zeer gelijk,gelijk,neutraal,gelijk,ongelijk,gelijk,ongelijk,gelijk,ongelijk
+verwerven,verkrijgen,zeer gelijk,zeer gelijk,zeer gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+concluderen,beslissen,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+tevredenstellen,pleiten,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,zeer ongelijk
+argumenteren,bewijzen,neutraal,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer gelijk,ongelijk,ongelijk,zeer gelijk,ongelijk,ongelijk
+vragen,pleiten,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+vinden,verdwijnen,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,neutraal,ongelijk,zeer ongelijk
+inspecteren,examineren,zeer gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,zeer gelijk,gelijk
+controleren,rechtvaardigen,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk
+vermoeden,voorspellen,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,neutraal,ongelijk,gelijk,zeer gelijk,ongelijk,ongelijk
+leren,evalueren,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk
+argumenteren,rechtvaardigen,zeer gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk
+maken,worden,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,neutraal,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk
+ontdekken,ontstaan,gelijk,gelijk,ongelijk,zeer gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,zeer gelijk,gelijk,zeer gelijk
+bereiken,slagen,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,zeer gelijk,neutraal,gelijk
+geven,plaatsen,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+begrijpen,luisteren,zeer ongelijk,neutraal,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+uitbreiden,groeien,zeer gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk
+lenen,verkopen,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk
+houden,beschermen,neutraal,zeer gelijk,ongelijk,neutraal,gelijk,gelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,gelijk,ongelijk,neutraal,ongelijk
+uitleggen,bewijzen,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+vermoeden,doenalsof,gelijk,zeer gelijk,zeer gelijk,gelijk,zeer gelijk,zeer gelijk,zeer gelijk,neutraal,neutraal,gelijk,gelijk,neutraal,zeer gelijk,gelijk,zeer gelijk
+akkoordgaan,voldoen,zeer gelijk,neutraal,neutraal,gelijk,gelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,ongelijk,gelijk,zeer gelijk,ongelijk,ongelijk
+vergeven,vergeten,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,neutraal,neutraal
+verklaren,uitleggen,zeer gelijk,gelijk,neutraal,neutraal,zeer gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,zeer ongelijk,gelijk,zeer gelijk,neutraal,gelijk
+begrijpen,vergeven,zeer gelijk,ongelijk,neutraal,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,neutraal,gelijk,ongelijk,ongelijk,ongelijk
+herinneren,vergeten,zeer gelijk,zeer gelijk,gelijk,ongelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,zeer gelijk,neutraal,gelijk,ongelijk,zeer gelijk,zeer gelijk
+krijgen,achterblijven,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk
+realiseren,ontdekken,ongelijk,ongelijk,ongelijk,zeer gelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,gelijk,gelijk,neutraal,ongelijk,ongelijk,zeer gelijk
+nodighebben,vragen,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,neutraal
+negeren,vragen,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk
+denken,informeren,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+afwijzen,vermijden,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,zeer gelijk,neutraal,gelijk,ongelijk,gelijk,gelijk
+argumenteren,overtuigen,neutraal,ongelijk,ongelijk,neutraal,gelijk,gelijk,ongelijk,ongelijk,gelijk,gelijk,neutraal,gelijk,ongelijk,neutraal,gelijk
+najagen,overtuigen,gelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer gelijk,ongelijk,zeer gelijk
+accepteren,vergeven,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,zeer ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk
+doen,stoppen,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,neutraal,ongelijk
+onderzoeken,herzien,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,gelijk,gelijk
+discussiëren,uitleggen,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+verschuldigdzijn,lenen,zeer ongelijk,ongelijk,gelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk
+verkennen,ontdekken,gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,ongelijk,neutraal,gelijk
+klagen,argumenteren,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+terugtrekken,afwijzen,neutraal,ongelijk,gelijk,zeer gelijk,gelijk,gelijk,ongelijk,neutraal,gelijk,gelijk,ongelijk,gelijk,ongelijk,gelijk,gelijk
+houden,lenen,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk
+smeken,vragen,neutraal,ongelijk,gelijk,ongelijk,ongelijk,neutraal,ongelijk,gelijk,gelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,gelijk,gelijk
+regelen,organiseren,zeer gelijk,gelijk,gelijk,gelijk,zeer gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,zeer gelijk,gelijk
+verminderen,krimpen,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk
+spreken,erkennen,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk
+geven,uitlenen,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,neutraal,gelijk,ongelijk,ongelijk
+doden,verdedigen,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+verdwijnen,krimpen,gelijk,ongelijk,neutraal,gelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,gelijk,zeer gelijk
+leveren,dragen,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,gelijk,ongelijk,ongelijk,ongelijk
+ademen,verstikken,zeer gelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk
+erkennen,melden,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,neutraal,ongelijk,ongelijk,ongelijk
+worden,verschijnen,neutraal,gelijk,zeer ongelijk,ongelijk,gelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,gelijk,zeer gelijk,ongelijk,ongelijk,ongelijk,neutraal
+doenalsof,lijken,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk
+bereiken,worden,ongelijk,neutraal,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk
+overnadenken,denken,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,neutraal,zeer gelijk,gelijk,gelijk,ongelijk,zeer gelijk,gelijk,zeer gelijk,zeer gelijk
+bepalen,voorspellen,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk
+tevredenstellen,vermaken,zeer ongelijk,ongelijk,gelijk,gelijk,ongelijk,ongelijk,zeer ongelijk,neutraal,ongelijk,ongelijk,gelijk,gelijk,gelijk,ongelijk,ongelijk
+blijven,behouden,gelijk,zeer gelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,neutraal,ongelijk,gelijk,gelijk,zeer gelijk,gelijk,neutraal
+doenalsof,uitbeelden,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,ongelijk,gelijk
+vergeten,onderhouden,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk
+willen,kiezen,neutraal,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,zeer ongelijk
+verliezen,krijgen,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+proberen,denken,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal
+worden,lijken,gelijk,gelijk,ongelijk,gelijk,ongelijk,gelijk,ongelijk,zeer ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,neutraal,neutraal
+vertrekken,negeren,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk
+accepteren,aanbevelen,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk
+vertrekken,zwerven,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk
+houden,geven,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+geven,toestaan,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,neutraal
+brengen,sturen,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,neutraal
+opnemen,leren,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk
+verwerven,vinden,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk
+vertrekken,verschijnen,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer gelijk,ongelijk,ongelijk,ongelijk,ongelijk
+creëren,vernietigen,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,gelijk,ongelijk,zeer ongelijk
+beginnen,gaan,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,neutraal,ongelijk,neutraal,gelijk,zeer gelijk,zeer gelijk,ongelijk,zeer gelijk,gelijk
+krijgen,kopen,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk
+verzamelen,opslaan,gelijk,gelijk,gelijk,gelijk,gelijk,zeer gelijk,neutraal,zeer gelijk,gelijk,gelijk,gelijk,zeer gelijk,gelijk,gelijk,gelijk
+vervangen,herstellen,ongelijk,gelijk,ongelijk,zeer gelijk,neutraal,gelijk,ongelijk,gelijk,gelijk,gelijk,ongelijk,ongelijk,ongelijk,neutraal,gelijk
+samenvoegen,toevoegen,zeer gelijk,ongelijk,gelijk,gelijk,gelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk
+samenvoegen,trouwen,zeer ongelijk,zeer ongelijk,zeer ongelijk,neutraal,zeer ongelijk,neutraal,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk
+accepteren,bezorgen,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+bijvoegen,samenvoegen,gelijk,gelijk,ongelijk,gelijk,neutraal,zeer gelijk,gelijk,gelijk,gelijk,neutraal,gelijk,gelijk,gelijk,gelijk,gelijk
+plaatsen,ophangen,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk,neutraal,ongelijk,ongelijk,gelijk,ongelijk,ongelijk
+gaan,binnenkomen,gelijk,gelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,gelijk
+communiceren,bidden,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,neutraal,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk
+geven,stelen,zeer ongelijk,neutraal,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk
+toevoegen,bouwen,zeer ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+brengen,herstellen,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+begrijpen,voldoen,gelijk,gelijk,ongelijk,ongelijk,neutraal,neutraal,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk
+belichamen,beslissen,zeer ongelijk,ongelijk,zeer ongelijk,neutraal,zeer ongelijk,neutraal,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk
+organiseren,worden,zeer ongelijk,ongelijk,zeer ongelijk,neutraal,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk
+geven,weten,ongelijk,neutraal,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+zeggen,verifiëren,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+samenwerken,aansluitenbij,gelijk,gelijk,ongelijk,neutraal,neutraal,zeer gelijk,gelijk,gelijk,ongelijk,gelijk,gelijk,gelijk,gelijk,gelijk,gelijk
+regelen,vereisen,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,neutraal,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk
+lenen,willen,gelijk,gelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+onderzoeken,streven,ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,zeer ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+negeren,verkennen,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,gelijk
+brengen,klagen,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk
+binnentreden,verschuldigdzijn,zeer ongelijk,neutraal,zeer ongelijk,zeer ongelijk,ongelijk,neutraal,zeer ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk
+belichamen,melden,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+herinneren,verkopen,ongelijk,ongelijk,zeer ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+opnemen,bezitten,ongelijk,gelijk,gelijk,ongelijk,neutraal,ongelijk,ongelijk,zeer gelijk,zeer ongelijk,ongelijk,zeer ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+samenvoegen,verwerven,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk
+sturen,bijwonen,zeer ongelijk,ongelijk,ongelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk
+verzamelen,bijwonen,gelijk,neutraal,gelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,gelijk,zeer gelijk,ongelijk,ongelijk,ongelijk
+opnemen,intrekken,ongelijk,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,zeer ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk
+bijwonen,aankomen,gelijk,gelijk,ongelijk,ongelijk,gelijk,ongelijk,neutraal,ongelijk,ongelijk,ongelijk,gelijk,ongelijk,ongelijk,ongelijk,ongelijk
