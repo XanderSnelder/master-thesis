@@ -1,4 +1,4 @@
-word1,word2,SimLex999,SD(SimLex),POS
+word1,word2,SimLex999,std_dev,POS
 old,new,1.58,0.41,A
 smart,intelligent,9.2,0.67,A
 hard,difficult,8.77,1.19,A
