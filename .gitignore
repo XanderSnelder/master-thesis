@@ -1,3 +1,4 @@
 .env
 eda/old
 extract_data/old
+.venv
